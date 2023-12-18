@@ -8,3 +8,4 @@ and also as a project to showcase that I know html , css, javascript
 
 To visit the website to visit on 
 
+https://sanjeevsingh10.github.io/Shree_Ram_Mandir_Invitation/
